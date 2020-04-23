@@ -1,0 +1,44 @@
+h1 {
+	color: blue;
+}
+
+ul li {
+	list-style: none;
+}
+
+a:link, a:visited {
+     text-decoration: none;
+     background-color: green;
+     border: 1px solid blue;
+     color: black;
+     display: block;
+     width: 200px;
+     text-align: center;
+}
+
+a:hover, a:active {
+	background-color: rad;
+	color: purple;
+}
+
+ul li:nth-child(2) {
+	font-size: 24px;
+}
+
+section p:nth-child(odd) {
+	background-color: rad;
+}
+
+span {
+	background-color: blue;
+}
+
+.world {
+	background-color: blue;
+}
+
+h2 {
+	color: maroon;
+}
+
+
